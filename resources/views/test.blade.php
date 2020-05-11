@@ -14,8 +14,8 @@
     @endif
 
     <div class="content">
-        <div class="title m-b-md">
-            Laravel
+        <div class="title m-b-md">laravel
+
         </div>
 
         <div class="links">
